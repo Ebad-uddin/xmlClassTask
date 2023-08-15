@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!-- <?xml-model href="schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?> -->
+   <!-- <?xml-stylesheet href="style.css" type="text/css"?> -->
+   <?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+
+<!-- complex type 
+ROOT ELEMENTS CONTAINS CHILD ELEMENTS
+-->
+<books>
+    <book>
+<id> 1 </id>
+<author> Ebad </author>
+<price> 300$ </price>
+<Publisher> KK Publisher </Publisher>
+</book>
+    <book>
+<id> 2 </id>
+<author> ahmed </author>
+<price> 400$ </price>
+<Publisher> KK Publisher </Publisher>
+</book>
+    <book>
+<id> 3 </id>
+<author> Ayesha </author>
+<price> 100$ </price>
+<Publisher> KK Publisher </Publisher>
+</book>
+    <book>
+<id> 4 </id>
+<author> Aiman </author>
+<price> 700$ </price>
+<Publisher> KK Publisher </Publisher>
+</book>
+</books>
